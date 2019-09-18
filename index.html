@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" type="text/css" href="styles/style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:300,400">
+    <link href="https://fonts.googleapis.com/css?family=Quicksand:500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+
+    <!-- plugin -->
+    <script src="jquery.novacancy.min.js"></script>
+
+    <title>Rene Cortez</title>
+  </head>
+   <body>
+      <div id="home" class="wrapper">
+        <header>
+          <nav>
+            <div class="menu-icon">
+              <i class="fa fa-bars fa-2x"></i>
+            </div>
+<!--            <div class="logo"><a href="#">Rene</a></div>-->
+            <div class="menu">
+              <ul>
+                <li><a href="#" class="cool-link">Home</a></li>
+                <li><a href="#about" class="cool-link">About Me</a></li>
+                <div class="logo"><a href="#">Rene</a></div>
+                <li><a href="#work" class="cool-link">Work</a></li>
+                <li><a href="#portfolio" class="cool-link">Portfolio</a></li>
+              </ul>
+            </div>
+          </nav>
+          <div class="social-media">
+              <ul class="cl-effect-1">
+                  <li><a href="https://github.com/rcortezk9" target="_blank"><i class="fab fa-github-alt fa-2x"></i></a></li>
+                  <li><a href="https://anaconda.org/rcortez/notebooks" target="_blank"><i class="fab fa-python fa-2x"></i></a></li>
+                  <li><a href="https://www.linkedin.com/in/rene-cortez/" target="_blank"><i class="fab fa-linkedin-in fa-2x"></i></a></li>
+              </ul>
+            </div>
+        </header>
+        <section id="about">
+
+        </section>
+      </div>
+      <script type="text/javascript">
+
+        //Menu toggle-button
+
+        $(document).ready(function () {
+          $(".menu-icon").on("click", function () {
+            $("nav ul").toggleClass("showing");
+          });
+        });
+        //Scrolling Effect
+        $(window).on("scroll", function () {
+          if($(window).scrollTop()) {
+            $('nav').addClass('black');
+          }
+          else {
+            $('nav').removeClass('black')
+          }
+        })
+
+      </script>
+  </body>
+</html>
