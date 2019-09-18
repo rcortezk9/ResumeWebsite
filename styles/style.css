@@ -15,6 +15,11 @@ header {
     height: 100vh;
     background: url(../img/hero.jpg) no-repeat 50% 50%;
     background-size: cover;
+    margin-bottom: 50px;
+}
+
+article {
+    background-color: #333333;
 }
 
 .wrapper {
@@ -22,7 +27,7 @@ header {
 }
 
 .content {
-    width: 90%;
+    /*width: 90%;*/
     margin: 4em auto;
     font-size: 20px;
     line-height: 30px;
