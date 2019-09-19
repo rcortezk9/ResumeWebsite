@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa651457-0bc1-4006-ae0f-47990df8ee5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/api.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/calculator.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/data-science.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/online-course.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/simon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sun.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/design.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/launch.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +66,7 @@
       <updated>1568581044560</updated>
       <workItem from="1568581048470" duration="11534000" />
       <workItem from="1568775279676" duration="3936000" />
-      <workItem from="1568821454205" duration="20854000" />
+      <workItem from="1568821454205" duration="26974000" />
     </task>
     <task id="LOCAL-00001" summary="Added debugger css file&#10;Added more styles&#10;Added an about section">
       <created>1568834017281</created>
@@ -89,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568851967945</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added the content and img to the portfolio.">
+      <created>1568855620678</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568855620678</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +112,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added debugger css file&#10;Added more styles&#10;Added an about section" />
     <MESSAGE value="Move the JS to its own file&#10;Added a test portfolio section&#10;Fixed some margin issues" />
-    <option name="LAST_COMMIT_MESSAGE" value="Move the JS to its own file&#10;Added a test portfolio section&#10;Fixed some margin issues" />
+    <MESSAGE value="Added the content and img to the portfolio." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the content and img to the portfolio." />
   </component>
 </project>
