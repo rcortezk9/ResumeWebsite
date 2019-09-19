@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa651457-0bc1-4006-ae0f-47990df8ee5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/styles/debug.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/portfolio.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/workexp.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/machine-learning-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/main.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/self.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/self.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
@@ -35,6 +34,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
@@ -69,8 +69,16 @@
       <updated>1568581044560</updated>
       <workItem from="1568581048470" duration="11534000" />
       <workItem from="1568775279676" duration="3936000" />
-      <workItem from="1568821454205" duration="7787000" />
+      <workItem from="1568821454205" duration="17338000" />
     </task>
+    <task id="LOCAL-00001" summary="Added debugger css file&#10;Added more styles&#10;Added an about section">
+      <created>1568834017281</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568834017281</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,5 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added debugger css file&#10;Added more styles&#10;Added an about section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added debugger css file&#10;Added more styles&#10;Added an about section" />
   </component>
 </project>
